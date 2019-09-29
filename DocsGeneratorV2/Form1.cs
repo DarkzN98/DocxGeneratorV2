@@ -75,6 +75,7 @@ namespace DocsGeneratorV2
                     range.Font.Bold = 0;
                     range.Font.Size = 10;
                     range.Font.Name = "Courier New";
+                    range.Font.Underline = WdUnderline.wdUnderlineNone;
                     range.InsertAfter(File.ReadAllText(s));
 
                     doc.Paragraphs.Add();
