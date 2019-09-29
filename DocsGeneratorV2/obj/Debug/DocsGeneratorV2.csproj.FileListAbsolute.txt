@@ -1,0 +1,11 @@
+H:\Projects\Coding\DocxGenerator-V2\DocsGeneratorV2\DocsGeneratorV2\bin\Debug\DocsGeneratorV2.exe.config
+H:\Projects\Coding\DocxGenerator-V2\DocsGeneratorV2\DocsGeneratorV2\bin\Debug\DocsGeneratorV2.exe
+H:\Projects\Coding\DocxGenerator-V2\DocsGeneratorV2\DocsGeneratorV2\bin\Debug\DocsGeneratorV2.pdb
+H:\Projects\Coding\DocxGenerator-V2\DocsGeneratorV2\DocsGeneratorV2\obj\Debug\DocsGeneratorV2.csprojResolveAssemblyReference.cache
+H:\Projects\Coding\DocxGenerator-V2\DocsGeneratorV2\DocsGeneratorV2\obj\Debug\DocsGeneratorV2.csproj.ResolveComReference.cache
+H:\Projects\Coding\DocxGenerator-V2\DocsGeneratorV2\DocsGeneratorV2\obj\Debug\DocsGeneratorV2.Form1.resources
+H:\Projects\Coding\DocxGenerator-V2\DocsGeneratorV2\DocsGeneratorV2\obj\Debug\DocsGeneratorV2.Properties.Resources.resources
+H:\Projects\Coding\DocxGenerator-V2\DocsGeneratorV2\DocsGeneratorV2\obj\Debug\DocsGeneratorV2.csproj.GenerateResource.Cache
+H:\Projects\Coding\DocxGenerator-V2\DocsGeneratorV2\DocsGeneratorV2\obj\Debug\DocsGeneratorV2.csproj.CoreCompileInputs.cache
+H:\Projects\Coding\DocxGenerator-V2\DocsGeneratorV2\DocsGeneratorV2\obj\Debug\DocsGeneratorV2.exe
+H:\Projects\Coding\DocxGenerator-V2\DocsGeneratorV2\DocsGeneratorV2\obj\Debug\DocsGeneratorV2.pdb
